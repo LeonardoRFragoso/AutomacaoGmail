@@ -9,8 +9,8 @@ import email.message
 
 def enviar_email():  
     corpo_email = """
-    <p>Teste pelo PC</p>
-    <p>Funcionando caralho!</p>
+    <p>Oi, meu nome é Leonardo</p>
+    <p>Sou Desenvolvedor Python, em breve vou postar mais algumas automações legais</p>
     """
 
     msg = email.message.Message()
